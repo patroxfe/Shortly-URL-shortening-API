@@ -390,6 +390,7 @@ button:hover {
 	}
 	&__logo {
 		fill: white;
+		margin-bottom: 5em;
 	}
 
 	&__quick-links {
@@ -403,13 +404,14 @@ button:hover {
 
 		span {
 			color: #fff;
-			font-size: 1.6rem;
-			padding: 1em 0;
+			font-size: 1.8rem;
+			margin: 0.4em 0;
 		}
 
 		a {
-			padding: 0.2em 0;
-			font-size: 1.6rem;
+			padding: 0.7em 1em;
+			margin: 0.1em 0;
+			font-size: 1.65rem;
 			text-decoration: none;
 			color: $grayishViolet;
 			transition: color 0.3s;
@@ -425,6 +427,8 @@ button:hover {
 			margin: 0 1.3em;
 			transition: color 0.3s;
 			cursor: pointer;
+			width: auto;
+			height: auto;
 		}
 	}
 }
@@ -673,6 +677,7 @@ button:hover {
 
 			span {
 				padding: 0;
+				margin: 0;
 				margin-bottom: 1em;
 			}
 

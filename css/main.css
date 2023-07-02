@@ -352,6 +352,7 @@ button:hover {
 }
 .footer__logo {
   fill: white;
+  margin-bottom: 5em;
 }
 .footer__quick-links {
   margin: 3em 0;
@@ -363,12 +364,13 @@ button:hover {
 }
 .footer__info span {
   color: #fff;
-  font-size: 1.6rem;
-  padding: 1em 0;
+  font-size: 1.8rem;
+  margin: 0.4em 0;
 }
 .footer__info a {
-  padding: 0.2em 0;
-  font-size: 1.6rem;
+  padding: 0.7em 1em;
+  margin: 0.1em 0;
+  font-size: 1.65rem;
   text-decoration: none;
   color: hsl(257, 7%, 63%);
   transition: color 0.3s;
@@ -380,6 +382,8 @@ button:hover {
   margin: 0 1.3em;
   transition: color 0.3s;
   cursor: pointer;
+  width: auto;
+  height: auto;
 }
 
 @media (min-width: 1024px) {
@@ -589,6 +593,7 @@ button:hover {
   }
   .footer__info span {
     padding: 0;
+    margin: 0;
     margin-bottom: 1em;
   }
   .footer__info a {
