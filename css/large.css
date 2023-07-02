@@ -1,0 +1,5 @@
+@media (min-width: 1024px) {
+  .header__content {
+    flex-direction: row;
+  }
+}/*# sourceMappingURL=large.css.map */
