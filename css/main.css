@@ -91,7 +91,7 @@ button:hover {
   width: 100%;
   height: 0.1em;
   margin: 1em 0;
-  background-color: hsl(257, 7%, 63%);
+  background-color: #9e9aa7;
 }
 .nav__content-about {
   display: flex;
@@ -125,7 +125,7 @@ button:hover {
   border-radius: 2em;
   font-weight: bold;
   border: none;
-  background-color: hsl(180, 66%, 49%);
+  background-color: #2acfcf;
   color: #fff;
   cursor: pointer;
 }
@@ -166,7 +166,7 @@ button:hover {
   margin-top: 1em;
   font-size: 1.8rem;
   line-height: 1.6em;
-  color: hsl(257, 7%, 63%);
+  color: #9e9aa7;
 }
 
 .get-started-btn {
@@ -176,7 +176,7 @@ button:hover {
   border-radius: 2em;
   font-weight: bold;
   color: #fff;
-  background-color: hsl(180, 66%, 49%);
+  background-color: #2acfcf;
   border: none;
 }
 
@@ -227,7 +227,7 @@ button:hover {
   letter-spacing: 0.03em;
   border: none;
   font-weight: bold;
-  background-color: hsl(180, 66%, 49%);
+  background-color: #2acfcf;
   color: #fff;
 }
 .advanced-stats .shorten-link-container {
@@ -254,7 +254,7 @@ button:hover {
   padding: 1.3em;
 }
 .advanced-stats .shorten-link__new-link {
-  color: hsl(180, 66%, 49%);
+  color: #2acfcf;
 }
 .advanced-stats .shorten-link__new-btn {
   width: 100%;
@@ -264,7 +264,7 @@ button:hover {
   border-radius: 0.4em;
   border: none;
   color: #fff;
-  background-color: hsl(180, 66%, 49%);
+  background-color: #2acfcf;
   cursor: pointer;
 }
 .advanced-stats .shorten-link p {
@@ -286,7 +286,7 @@ button:hover {
   margin-top: 1em;
   font-size: 1.6rem;
   line-height: 1.7em;
-  color: hsl(257, 7%, 63%);
+  color: #9e9aa7;
 }
 .advanced-stats__feature {
   display: grid;
@@ -321,7 +321,7 @@ button:hover {
 }
 .advanced-stats__feature-text {
   padding-top: 1em;
-  color: hsl(257, 7%, 63%);
+  color: #9e9aa7;
   font-size: 1.6rem;
 }
 
@@ -372,18 +372,16 @@ button:hover {
   margin: 0.1em 0;
   font-size: 1.65rem;
   text-decoration: none;
-  color: hsl(257, 7%, 63%);
+  color: #9e9aa7;
   transition: color 0.3s;
 }
 .footer__info a:hover {
-  color: hsl(180, 66%, 49%);
+  color: #2acfcf;
 }
 .footer__socials img {
   margin: 0 1.3em;
   transition: color 0.3s;
   cursor: pointer;
-  width: auto;
-  height: auto;
 }
 
 @media (min-width: 1024px) {
@@ -429,7 +427,7 @@ button:hover {
     transition: color 0.3s;
   }
   .nav__content-about a:hover {
-    color: hsl(257, 7%, 63%);
+    color: #9e9aa7;
   }
   .nav__content-login {
     font-size: 1.6rem;
@@ -440,7 +438,7 @@ button:hover {
     transition: color 0.3s;
   }
   .nav__content-login:hover {
-    color: hsl(257, 7%, 63%);
+    color: #9e9aa7;
   }
   .nav__content-signup {
     margin-left: 2em;
@@ -449,7 +447,7 @@ button:hover {
     border-radius: 2em;
     border: none;
     font-weight: bold;
-    background-color: hsl(180, 66%, 49%);
+    background-color: #2acfcf;
     color: #fff;
   }
   .nav__content-signup:hover {
@@ -513,7 +511,7 @@ button:hover {
     top: 40%;
     height: 0.8em;
     width: 5em;
-    background-color: hsl(180, 66%, 49%);
+    background-color: #2acfcf;
     z-index: 1;
   }
   .advanced-stats__feature-box:nth-child(2)::after {
@@ -557,7 +555,7 @@ button:hover {
     padding: 1.3em;
   }
   .advanced-stats .shorten-link__new-link {
-    color: hsl(180, 66%, 49%);
+    color: #2acfcf;
   }
   .advanced-stats .shorten-link__new-btn {
     margin-top: 0;
@@ -567,7 +565,7 @@ button:hover {
     border-radius: 0.4em;
     border: none;
     color: #fff;
-    background-color: hsl(180, 66%, 49%);
+    background-color: #2acfcf;
   }
   .boost-section {
     padding: 7em 3em;
@@ -600,11 +598,11 @@ button:hover {
     padding: 0.2em 0;
     font-size: 1.6rem;
     text-decoration: none;
-    color: hsl(257, 7%, 63%);
+    color: #9e9aa7;
     transition: color 0.3s;
   }
   .footer__info a:hover {
-    color: hsl(180, 66%, 49%);
+    color: #2acfcf;
   }
   .footer__socials img {
     margin: 0 1.3em;
