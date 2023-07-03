@@ -79,3 +79,10 @@ navItems.forEach(navItem =>
 
 btnShorten.addEventListener('click', showInputContent)
 hamburgerMenu.addEventListener('click', showMenu)
+
+inputShorten.addEventListener('keydown', (e) => {
+	if (e.key === 'Enter') {
+	  showInputContent();
+	}
+  });
+  
